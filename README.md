@@ -99,4 +99,3 @@ This project runs within the university-provided OpenGL framework.
 - Collision detection is AABB-based (proximity distance checks)
 - Broken track deformation is applied via model matrix transformations (translate + rotate) passed to the shader
 - The handcar handle animation uses `sin(handle_angle)` for smooth rocking
-# Rail-Maintenance-3D-OpenGL
